@@ -1,0 +1,14 @@
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\bin\Debug\netcoreapp3.1\CS-Practice.exe
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\bin\Debug\netcoreapp3.1\CS-Practice.deps.json
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\bin\Debug\netcoreapp3.1\CS-Practice.runtimeconfig.json
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\bin\Debug\netcoreapp3.1\CS-Practice.runtimeconfig.dev.json
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\bin\Debug\netcoreapp3.1\CS-Practice.dll
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\bin\Debug\netcoreapp3.1\CS-Practice.pdb
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\obj\Debug\netcoreapp3.1\CS-Practice.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\obj\Debug\netcoreapp3.1\CS-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\obj\Debug\netcoreapp3.1\CS-Practice.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\obj\Debug\netcoreapp3.1\CS-Practice.AssemblyInfo.cs
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\obj\Debug\netcoreapp3.1\CS-Practice.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\obj\Debug\netcoreapp3.1\CS-Practice.dll
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\obj\Debug\netcoreapp3.1\CS-Practice.pdb
+C:\Users\profe\Desktop\C-Method-practice\CS-Practice\CS-Practice\obj\Debug\netcoreapp3.1\CS-Practice.genruntimeconfig.cache
