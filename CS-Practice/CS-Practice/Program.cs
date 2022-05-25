@@ -56,9 +56,53 @@ namespace CS_Practice
 
         }
 
+        #region Dersde islediyimiz task-lar ******************************************************************************************
+        // Verilmis ededler siyahisindaki verilmis n ededinin sayini tapan metod
+
+        static int NumberCounter(int[] arr,int n)
+        {
+            int count = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i]==n)
+                {
+                    count++;
+                }
+            }
+            return count;
+
+        }
+
+        // Verilmis qiymetlerin ortalamasini hesablayan metod
+
+        static int Counter(int[] numbers)
+        {
+            int count = 0;
+            int sum = 0;
+            int orta;
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                sum += numbers[i];
+                count++;
+            }
+            if (count != 0)
+            {
+                orta = sum / count;
+                return orta;
+            }
+            return -1;
+            
+
+            
+            
+        }
+
+        
+
+        #endregion
 
         #region 1-ci Tapsiriq******************************************************************************************
-                    // Verilmis adlar siyahisinda (string array) nece adin uzunlugunun 5-den boyuk oldugunu tapan proqram
+        // Verilmis adlar siyahisinda (string array) nece adin uzunlugunun 5-den boyuk oldugunu tapan proqram
 
         static int NameCounter(string[] names)
         {
